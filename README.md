@@ -1,12 +1,18 @@
 # Currency-Convertor
 A simple, user-friendly currency conversion web application that allows users to convert between various currencies in real-time. The tool is ideal for travelers, businesses, and anyone who deals with multiple currencies.
 
-Features
+Features:
+
 Real-Time Conversion: Convert between multiple currencies quickly and accurately.
+
 Dynamic Dropdowns: A responsive interface to select currencies from a predefined list.
+
 Customizable UI: Easy-to-edit design, perfect for personalization.
+
 Lightweight: Built with efficient HTML, CSS, and JavaScript for smooth performance.
-Technologies Used
+
+Technologies Used :
+
 HTML5: For structuring the web application.
 CSS3: For styling and responsive design.
 JavaScript (ES6): For dynamic behavior, fetching real-time rates, and calculations.
