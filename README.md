@@ -3,7 +3,7 @@
 Self made minor Project.
 A simple, user-friendly currency conversion web application that allows users to convert between various currencies in real-time. The tool is ideal for travelers, businesses, and anyone who deals with multiple currencies.
 
-=> Features:
+## Features:
 1. Real-Time Conversion: Convert between multiple currencies quickly and accurately.
 
 2. Dynamic Dropdowns: A responsive interface to select currencies from a predefined list.
@@ -13,7 +13,7 @@ A simple, user-friendly currency conversion web application that allows users to
 4. Lightweight: Built with efficient HTML, CSS, and JavaScript for smooth performance.
 
 
-=> Technologies Used :
+## Technologies Used :
 1. HTML5: For structuring the web application.
 
 2. CSS3: For styling and responsive design.
@@ -23,10 +23,10 @@ A simple, user-friendly currency conversion web application that allows users to
 4. API Integration (optional): Option to integrate a currency exchange API for real-time rates.
 
 
-=> Installation:
+## Installation:
 ![Screenshot 2025-01-18 232809](https://github.com/user-attachments/assets/9901a549-2f33-417c-9adc-15ea94c3633c)
 
-=> Usage:
+## Usage:
 1. Open the application in a web browser.
 
 2. Select the currencies you want to convert from the dropdown menus.
@@ -36,7 +36,7 @@ A simple, user-friendly currency conversion web application that allows users to
 4. View the converted value instantly.
 
 
-=> Future Enhancements:
+## Future Enhancements:
 1. API Integration: Connect with real-time currency exchange APIs (e.g., OpenExchangeRates or ExchangeRate-API).
    
 2. Multi-Language Support: Add options to support different languages.
@@ -46,10 +46,10 @@ A simple, user-friendly currency conversion web application that allows users to
 4. Error Handling: Graceful handling of invalid inputs and API errors.
 
 
-=>Contact:
+## Contact:
 
-Author: Vinay Sharma
+# Author: Vinay Sharma
 
-GitHub: @vinay00210
+# GitHub: @vinay00210
 
-Location: Vadodara, Gujarat.
+# Location: Vadodara, Gujarat.
